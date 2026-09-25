@@ -5,7 +5,6 @@ public  class Gato {
     private int idade;
     private String raca;
 
-    // Construtor padrão (igual ao Servico())
     public Gato() {
         System.out.println("Um novo gato chegou para a feira de adoção!");
     }
